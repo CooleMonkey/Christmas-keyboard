@@ -15,3 +15,7 @@ I added some lights and found out that I had forgotten a row so and then I wired
 The keyboard is slowly coming to life. Just started with wiring everything up.
 I started this project today at 18:00 and around 3 hours of work later I arrived at the wiring, but still a lot has to be done. Btw I took a 20 minute break to eat from 19:40 to 20:00.
 <img width="1216" height="512" alt="image" src="https://github.com/user-attachments/assets/e3bb0fa8-c020-4826-93ce-6dc0f3055847" />
+
+# 30-12-2025 21:50
+Finally done with the wiring. Spend about 3.5 hours today.
+<img width="1256" height="528" alt="image" src="https://github.com/user-attachments/assets/2d2e5996-8fc8-49e9-ae5a-158c003e1d00" />
