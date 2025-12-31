@@ -31,3 +31,7 @@ Still working on the right bottom part of the case. The hardest struggle was get
 # 31-12-2025 15:30
 Right bottom case is almost done. Just needs some finishing touches and screw holes for the pcb. I also still need to think about how I'm gonna make sure the pcb won't move. Option 1 is screwing, but I don't really like that, but that is probably the best option I have.
 <img width="1496" height="703" alt="image" src="https://github.com/user-attachments/assets/8c863c49-2b09-4b57-81db-6fcc4ffcbc1b" />
+
+# 31-12-2025 18:30
+Don't ask me how, but I just spend a whole hour trying to get the right 3d model for the keyswitches in KiCad.
+<img width="1142" height="474" alt="image" src="https://github.com/user-attachments/assets/2c2b6c83-2d97-4e4e-ac0f-fe4f06c8fa07" />
