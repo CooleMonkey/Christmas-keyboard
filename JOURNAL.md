@@ -19,3 +19,7 @@ I started this project today at 18:00 and around 3 hours of work later I arrived
 # 30-12-2025 21:50
 Finally done with the wiring. Spend about 3.5 hours today.
 <img width="1256" height="528" alt="image" src="https://github.com/user-attachments/assets/2d2e5996-8fc8-49e9-ae5a-158c003e1d00" />
+
+# 31-12-2025 13:30
+Started thinking about the 3d case design. Cause not every 3d printer can support a 40 cm wide keyboard. So I need to break it up into some parts.
+My plan is to break the case up into 2 sides. Those sides will overlap at a specific point and there will be a hole in that overlap, so that I can screw them together.
