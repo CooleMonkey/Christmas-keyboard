@@ -23,3 +23,7 @@ Finally done with the wiring. Spend about 3.5 hours today.
 # 31-12-2025 13:30
 Started thinking about the 3d case design. Cause not every 3d printer can support a 40 cm wide keyboard. So I need to break it up into some parts.
 My plan is to break the case up into 2 sides. Those sides will overlap at a specific point and there will be a hole in that overlap, so that I can screw them together.
+
+# 31-12-2025 14:30
+Still working on the right bottom part of the case. The hardest struggle was getting all the dimensions right.
+<img width="1295" height="658" alt="image" src="https://github.com/user-attachments/assets/8ec31520-3a93-4fc0-b087-ede295df7c25" />
