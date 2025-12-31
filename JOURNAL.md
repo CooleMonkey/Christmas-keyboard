@@ -27,3 +27,7 @@ My plan is to break the case up into 2 sides. Those sides will overlap at a spec
 # 31-12-2025 14:30
 Still working on the right bottom part of the case. The hardest struggle was getting all the dimensions right.
 <img width="1295" height="658" alt="image" src="https://github.com/user-attachments/assets/8ec31520-3a93-4fc0-b087-ede295df7c25" />
+
+# 31-12-2025 15:30
+Right bottom case is almost done. Just needs some finishing touches and screw holes for the pcb. I also still need to think about how I'm gonna make sure the pcb won't move. Option 1 is screwing, but I don't really like that, but that is probably the best option I have.
+<img width="1496" height="703" alt="image" src="https://github.com/user-attachments/assets/8c863c49-2b09-4b57-81db-6fcc4ffcbc1b" />
