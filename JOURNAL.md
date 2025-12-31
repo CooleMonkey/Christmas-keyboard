@@ -34,4 +34,7 @@ Right bottom case is almost done. Just needs some finishing touches and screw ho
 
 # 31-12-2025 18:30
 Don't ask me how, but I just spend a whole hour trying to get the right 3d model for the keyswitches in KiCad.
+Total hours spend is now 6.5 and I'm estimating this will be at least 10 when I'm done with everything.
+I'm planning to do the bottom left case tomorrow and then I will check the 3d case with the 3d pcb to check if all proportions are right.
+If all the proportions are right, then I will proceed with the upper part of the case.
 <img width="1142" height="474" alt="image" src="https://github.com/user-attachments/assets/2c2b6c83-2d97-4e4e-ac0f-fe4f06c8fa07" />
