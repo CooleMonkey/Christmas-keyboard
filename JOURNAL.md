@@ -58,5 +58,9 @@ After 2 hours the full upper case is done. In my opion it looks really good. The
 
 # 1-1-2026 21:30
 It took my a stunning 1,5 hours and some help of chatgpt to write the code. I thought I had found a great youtube video with explanation, but when it was almost at the end I found out I couldn't use that way, so than I had to start all over again. But anyway, my code should work now.
-
 ![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ5MDEsInB1ciI6ImJsb2JfaWQifX0=--601d2e47c871a85f74763c37f6204c108ad69f51/image.png)
+
+# 1-1-2026 23:00
+Just made some small cute cuts in the top part of the case.
+<img width="930" height="577" alt="image" src="https://github.com/user-attachments/assets/b5b328e7-de6b-4e2c-bc85-92fdb24ad327" />
+
