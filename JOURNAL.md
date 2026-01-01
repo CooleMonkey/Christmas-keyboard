@@ -45,4 +45,5 @@ It's the first day of 2026 and I made some improvements to the pcb board and rig
 # 1-1-2026 13:00
 Time is going so fast when I'm having fun. Just put another hour into this project. The bottom left case is almost done. When that's completely done I will make the last screw holes in the PCB and start working on the Upper part of the case.
 <img width="1145" height="488" alt="image" src="https://github.com/user-attachments/assets/e96c6eef-7f3f-4b75-93a7-47755fa755f5" />
+<img width="1180" height="643" alt="image" src="https://github.com/user-attachments/assets/3f086966-8920-4c6f-a75f-b1c61a16e85f" />
 
