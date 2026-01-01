@@ -38,3 +38,6 @@ Total hours spend is now 6.5 and I'm estimating this will be at least 10 when I'
 I'm planning to do the bottom left case tomorrow and then I will check the 3d case with the 3d pcb to check if all proportions are right.
 If all the proportions are right, then I will proceed with the upper part of the case.
 <img width="1142" height="474" alt="image" src="https://github.com/user-attachments/assets/2c2b6c83-2d97-4e4e-ac0f-fe4f06c8fa07" />
+
+# 1-1-2026 11:00
+It's the first day of 2026 and I made some improvements to the pcb board and right bottom case in half an hour. On the right bottom case I rounded the corners and made the hole for the usb end of the raspberry pi pico a bit larger. On the PCB I made the first 2 holes to screw to pcb to the case and I moved some wires more to the inside to make sure they won't be damaged by the screws.
