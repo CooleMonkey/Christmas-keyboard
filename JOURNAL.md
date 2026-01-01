@@ -55,3 +55,8 @@ Another hour has gone by and the Upper right case is done. It's very entertainin
 # 1-1-2026 18:30
 After 2 hours the full upper case is done. In my opion it looks really good. The only thing left for me to do in CAD is color the 5 different parts. Tonight or tomorrow I will write the firmware for the keyboard.
 <img width="1185" height="560" alt="image" src="https://github.com/user-attachments/assets/65d58457-52d4-4925-8bf7-613560127838" />
+
+# 1-1-2026 21:30
+It took my a stunning 1,5 hours and some help of chatgpt to write the code. I thought I had found a great youtube video with explanation, but when it was almost at the end I found out I couldn't use that way, so than I had to start all over again. But anyway, my code should work now.
+
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ5MDEsInB1ciI6ImJsb2JfaWQifX0=--601d2e47c871a85f74763c37f6204c108ad69f51/image.png)
