@@ -47,3 +47,7 @@ Time is going so fast when I'm having fun. Just put another hour into this proje
 <img width="1145" height="488" alt="image" src="https://github.com/user-attachments/assets/e96c6eef-7f3f-4b75-93a7-47755fa755f5" />
 <img width="1180" height="643" alt="image" src="https://github.com/user-attachments/assets/3f086966-8920-4c6f-a75f-b1c61a16e85f" />
 
+# 1-1-2026 15:00
+Another hour has gone by and the Upper right case is done. It's very entertaining to see your vision slowly coming to life.
+<img width="1024" height="503" alt="image" src="https://github.com/user-attachments/assets/8b99a8ce-1de0-439b-a8dc-e3d497a0691a" />
+<img width="1328" height="605" alt="image" src="https://github.com/user-attachments/assets/d0aa15b5-f1bb-4ec5-b13c-a6746c920834" />
