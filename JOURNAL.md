@@ -51,3 +51,7 @@ Time is going so fast when I'm having fun. Just put another hour into this proje
 Another hour has gone by and the Upper right case is done. It's very entertaining to see your vision slowly coming to life.
 <img width="1024" height="503" alt="image" src="https://github.com/user-attachments/assets/8b99a8ce-1de0-439b-a8dc-e3d497a0691a" />
 <img width="1328" height="605" alt="image" src="https://github.com/user-attachments/assets/d0aa15b5-f1bb-4ec5-b13c-a6746c920834" />
+
+# 1-1-2026 18:30
+After 2 hours the full upper case is done. In my opion it looks really good. The only thing left for me to do in CAD is color the 5 different parts. Tonight or tomorrow I will write the firmware for the keyboard.
+<img width="1185" height="560" alt="image" src="https://github.com/user-attachments/assets/65d58457-52d4-4925-8bf7-613560127838" />
