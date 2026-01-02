@@ -32,3 +32,6 @@ The case is made up of 5 parts so it can be printed in a 3d printer.
 
 ## Top Case L2
 <img width="866" height="520" alt="image" src="https://github.com/user-attachments/assets/a1b34830-cb38-4b7f-a773-2e9949214890" />
+
+## BOM
+<img width="1846" height="595" alt="image" src="https://github.com/user-attachments/assets/1dcdc6d3-67b7-4aab-8414-3f9c82b337b6" />
