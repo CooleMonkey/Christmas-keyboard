@@ -34,5 +34,6 @@ The case is made up of 5 parts so it can be printed in a 3d printer.
 <img width="866" height="520" alt="image" src="https://github.com/user-attachments/assets/a1b34830-cb38-4b7f-a773-2e9949214890" />
 
 ## BOM
-<img width="1836" height="608" alt="image" src="https://github.com/user-attachments/assets/a7921b56-135d-4652-a5c9-eac9e343d35b" />
+<img width="1855" height="633" alt="image" src="https://github.com/user-attachments/assets/25a1dece-568e-4cd6-8594-4dfed2e8bedc" />
+
 
