@@ -64,3 +64,6 @@ It took my a stunning 1,5 hours and some help of chatgpt to write the code. I th
 Just made some small cute cuts in the top part of the case.
 <img width="930" height="577" alt="image" src="https://github.com/user-attachments/assets/b5b328e7-de6b-4e2c-bc85-92fdb24ad327" />
 
+# 2-1-2026 11:00
+I've added BOM and all the files. Everything if finally done. I'm pretty proud of this project.
+<img width="1144" height="546" alt="Schermafbeelding 2026-01-02 100633" src="https://github.com/user-attachments/assets/6c0615d0-5c8d-4a3c-ac2e-ea05419d9387" />
