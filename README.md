@@ -7,6 +7,7 @@ During this project I had some struggles with the PCB and the 3d-case, but event
 The case is made up of 5 parts so it can be printed in a 3d printer.
 
 ## PCB
+<img width="1013" height="734" alt="image" src="https://github.com/user-attachments/assets/075dfc6f-982d-4e88-a601-43a6dd0936df" />
 <img width="1057" height="379" alt="image" src="https://github.com/user-attachments/assets/7cffd653-aa4c-4f6a-8897-13fb28fc11a7" />
 
 ## Full 3D Model
