@@ -72,3 +72,7 @@ I've added BOM and all the files. Everything if finally done. I'm pretty proud o
 My keyboard got reviewed last night and I had to change some things. The first thing is that some of the PCB wires didn't look good and that I should use 45 degree angels instead of 90 degree angles. So I just fixed the PCB. I also changed the BOM a little bit, cause I forgot to add the screws to mount the PCB to the case. I won't maken screw holes in the case to mount to PCB for the case cause I can do that later on with some special tools, so that way I can make sure the PCB fits in it's place.
 BTW, this cost me 30 minutes.
 <img width="733" height="319" alt="image" src="https://github.com/user-attachments/assets/0fc277db-a4d0-4e10-9389-48f2897dbe7a" />
+
+# 8-1-2026 9:30
+After another 30 minutes of working everything should now be fixed. I made it so that I can screw the M3 16mm screws from the bottom and that there is enough room for the head of the screw to 'dissapear in the case'.
+<img width="1016" height="690" alt="Schermafbeelding 2026-01-08 092430" src="https://github.com/user-attachments/assets/d4b82e52-644d-4b89-9726-ec6130787d97" />
