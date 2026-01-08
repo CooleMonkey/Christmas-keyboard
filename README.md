@@ -11,27 +11,27 @@ The case is made up of 5 parts so it can be printed in a 3d printer.
 <img width="733" height="319" alt="Schermafbeelding 2026-01-08 085740" src="https://github.com/user-attachments/assets/e982b967-a12c-4a39-8f44-850420f580b2" />
 
 ## Full 3D Model
-<img width="1014" height="443" alt="image" src="https://github.com/user-attachments/assets/81c01974-3da0-46ed-80c5-3b2df5aff58d" />
-<img width="1144" height="546" alt="image" src="https://github.com/user-attachments/assets/6aabfe2f-2b94-4ead-8724-f8c5f79bcb66" />
+<img width="1151" height="584" alt="Schermafbeelding 2026-01-08 092757" src="https://github.com/user-attachments/assets/1eb4e5ca-0a33-4145-ae84-1ec0f935a8f1" />
 
 ## 3D Case
-<img width="1147" height="493" alt="image" src="https://github.com/user-attachments/assets/d0a7dde4-bf77-4e7f-9441-55a08d130de8" />
-<img width="1064" height="492" alt="image" src="https://github.com/user-attachments/assets/a750a587-e772-4c40-8a46-af19210435cd" />
+<img width="1100" height="736" alt="image" src="https://github.com/user-attachments/assets/76c22311-588d-4795-b5bb-54ed678765a3" />
 
 ## Bottom Case R
-<img width="1285" height="699" alt="image" src="https://github.com/user-attachments/assets/5edd3b1b-3a2a-42f8-9c7f-6721a94ad993" />
+<img width="822" height="480" alt="Schermafbeelding 2026-01-08 092441" src="https://github.com/user-attachments/assets/0b163702-1380-414d-ab4a-56f1f9e99a86" />
+<img width="1040" height="579" alt="Schermafbeelding 2026-01-08 092454" src="https://github.com/user-attachments/assets/3ca728cb-a546-4578-8dae-c64bf948272b" />
 
 ## Bottom Case L
-<img width="1281" height="674" alt="image" src="https://github.com/user-attachments/assets/646f5368-69ce-4aec-ad3e-5c06dc81de38" />
+<img width="1301" height="731" alt="Schermafbeelding 2026-01-08 092420" src="https://github.com/user-attachments/assets/986c3d9f-4011-4762-9602-c8602e04eb82" />
+<img width="1016" height="690" alt="Schermafbeelding 2026-01-08 092430" src="https://github.com/user-attachments/assets/a25c7e5f-41a0-4ac0-ac98-c3d00ea50c9f" />
 
 ## Top Case R
-<img width="1400" height="647" alt="image" src="https://github.com/user-attachments/assets/b45969e3-b7d8-42fa-a936-92e6cd6ce8c0" />
+<img width="1246" height="625" alt="Schermafbeelding 2026-01-08 092405" src="https://github.com/user-attachments/assets/3f0d7c86-1b6a-4a3c-95be-e3991a264f27" />
 
 ## Top Case L1
-<img width="646" height="516" alt="image" src="https://github.com/user-attachments/assets/48f5ddfe-fe15-453e-94c6-5fa4e189042d" />
+<img width="675" height="682" alt="Schermafbeelding 2026-01-08 092347" src="https://github.com/user-attachments/assets/a75dfb2f-d3f4-4aa7-bb70-386407b312e9" />
 
 ## Top Case L2
-<img width="866" height="520" alt="image" src="https://github.com/user-attachments/assets/a1b34830-cb38-4b7f-a773-2e9949214890" />
+<img width="642" height="611" alt="Schermafbeelding 2026-01-08 092356" src="https://github.com/user-attachments/assets/024693e2-d78a-4006-818e-6a831a6be710" />
 
 ## BOM
 <img width="1858" height="625" alt="image" src="https://github.com/user-attachments/assets/de3ff6bf-449f-480f-82cd-63bf2e1413f7" />
