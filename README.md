@@ -5,6 +5,8 @@ The third reason was the fact that the best christmas themed project shipped bef
 
 During this project I had some struggles with the PCB and the 3d-case, but eventually I got everyhting the right way I wanted it, so I'm pretty happy when I'm looking back at the time I have spent into this project.
 The case is made up of 5 parts so it can be printed in a 3d printer.
+<img width="1151" height="584" alt="Schermafbeelding 2026-01-08 092757" src="https://github.com/user-attachments/assets/6c2597c3-9548-45d6-9289-b432015d9e58" />
+
 
 ## PCB
 <img width="1013" height="734" alt="image" src="https://github.com/user-attachments/assets/075dfc6f-982d-4e88-a601-43a6dd0936df" />
