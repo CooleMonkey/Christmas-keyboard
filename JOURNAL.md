@@ -76,3 +76,6 @@ BTW, this cost me 30 minutes.
 # 8-1-2026 9:30
 After another 30 minutes of working everything should now be fixed. I made it so that I can screw the M3 16mm screws from the bottom and that there is enough room for the head of the screw to 'dissapear in the case'.
 <img width="1016" height="690" alt="Schermafbeelding 2026-01-08 092430" src="https://github.com/user-attachments/assets/d4b82e52-644d-4b89-9726-ec6130787d97" />
+
+# 24-1-2026 14:00
+Stupid me forgot to connect the LED's the right way so I had to fix that, but that meant that I also had to reupload the files to GitHub, etc. So it took some time. I'm hoping that this is the last change I need to make so that I can soon order everything and build it in my vacation that starts in 3 weeks.
