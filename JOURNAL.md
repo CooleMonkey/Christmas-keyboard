@@ -79,3 +79,8 @@ After another 30 minutes of working everything should now be fixed. I made it so
 
 # 24-1-2026 14:00
 Stupid me forgot to connect the LED's the right way so I had to fix that, but that meant that I also had to reupload the files to GitHub, etc. So it took some time. I'm hoping that this is the last change I need to make so that I can soon order everything and build it in my vacation that starts in 3 weeks.
+
+# 24-1-2026 17:30
+After I got some small feedback about the pin I was using for the LED's I switched it to GPIO26. This should be easier to solder. So that makes my life a little bit easier.
+<img width="1055" height="391" alt="Schermafbeelding 2026-01-24 173924" src="https://github.com/user-attachments/assets/3c9f7a12-e715-4da4-969f-c15f5ab9a81a" />
+<img width="1026" height="746" alt="Schermafbeelding 2026-01-24 173935" src="https://github.com/user-attachments/assets/3d52ae75-8317-4037-8547-ea568cdf8046" />
