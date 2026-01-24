@@ -9,8 +9,8 @@ The case is made up of 5 parts so it can be printed in a 3d printer.
 
 
 ## PCB
-<img width="1013" height="734" alt="image" src="https://github.com/user-attachments/assets/075dfc6f-982d-4e88-a601-43a6dd0936df" />
-<img width="733" height="319" alt="Schermafbeelding 2026-01-08 085740" src="https://github.com/user-attachments/assets/e982b967-a12c-4a39-8f44-850420f580b2" />
+<img width="1173" height="845" alt="Schermafbeelding 2026-01-24 141236" src="https://github.com/user-attachments/assets/9b795890-ee8c-4d48-91d4-cc2ba8c55278" />
+<img width="1544" height="582" alt="Schermafbeelding 2026-01-24 141219" src="https://github.com/user-attachments/assets/e89d68dc-3f44-44c3-b6ce-b2c8cc6409cd" />
 
 ## Full 3D Model
 <img width="1151" height="584" alt="Schermafbeelding 2026-01-08 092757" src="https://github.com/user-attachments/assets/1eb4e5ca-0a33-4145-ae84-1ec0f935a8f1" />
