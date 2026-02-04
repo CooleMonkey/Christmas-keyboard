@@ -4,20 +4,23 @@ So this way I can use my mouse and numpad at the same time and my numpad isn't i
 ![keyboard-layout-custom60-e1695896529533](https://github.com/user-attachments/assets/e297c509-fc09-46f1-b9b8-1e02945de1e8)
 
 # 30-12-2025 18:45
-Just finished the first part of my layout, but still working on it. Cause it takes some time and I wanna add lights.
+Just finished the first part of my layout, but still working on it. Cause it takes some time and I wanna add lights. I used a matrix to connect everything, cause that way I need less pins on the Raspberry Pi. Since I already did this for my hackpad it wasn't that hard to do it for my keyboard. I also tried to connect everything in a logical way. So that when I start coding and connecting all the wires it will be a bit easier. I'm also really glad that I first made a hackpad cause now I understand everything pretty well.
 <img width="1206" height="856" alt="image" src="https://github.com/user-attachments/assets/160ff652-59d4-4ada-acdc-97bf3de695f0" />
 
 # 30-12-2025 19:15
-I added some lights and found out that I had forgotten a row so and then I wired everything up.
+I added some lights and found out that I had forgotten a row so and then I wired everything up. I used the sk6812 mini's, cause those are the only ones where I know how to wire them up correctly, cause they were also used in the hackpad tutorial.
+Note: Found out later on, that the lights weren't connected right.
 <img width="1106" height="796" alt="image" src="https://github.com/user-attachments/assets/40456866-f86b-454c-a258-98c4ffcf9c6b" />
 
 # 30-12-2025 21:15
 The keyboard is slowly coming to life. Just started with wiring everything up.
 I started this project today at 18:00 and around 3 hours of work later I arrived at the wiring, but still a lot has to be done. Btw I took a 20 minute break to eat from 19:40 to 20:00.
+I think I'm going to run all the column wires through the top part cause there is a lot of space there and the rows can go through the right part to the Raspberry Pi.
 <img width="1216" height="512" alt="image" src="https://github.com/user-attachments/assets/e3bb0fa8-c020-4826-93ce-6dc0f3055847" />
 
 # 30-12-2025 21:50
-Finally done with the wiring. Spend about 3.5 hours today.
+Finally done with the wiring. Spend about 3.5 hours today. My plan did work great. All wires are routed pretty neat and everything looks clear.
+I'm also pretty surprised that I didn't have to do much wiring on the back of the PCB, but that probably indicates that I did everything pretty effiecently.
 <img width="1256" height="528" alt="image" src="https://github.com/user-attachments/assets/2d2e5996-8fc8-49e9-ae5a-158c003e1d00" />
 
 # 31-12-2025 13:30
